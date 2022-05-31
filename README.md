@@ -9,6 +9,14 @@
 	<a href="https://gitee.com/y_project/RuoYi-Vue/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
 </p>
 
+## 更改说明
+
+1. 更改swagger为knife4j
+2. 更改mybatis为mybatis-plus
+3. 移除从数据源
+4. 更改AjaxResult返回类
+5. 支持i18n多语言
+
 ## 平台简介
 
 若依是一套全部开源的快速开发平台，毫无保留给个人及企业免费使用。
